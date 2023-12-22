@@ -1,4 +1,7 @@
 # Hello there 👋
+## Certificates
+1. https://www.kaggle.com/learn/certification/anisiyabelyaeva/intro-to-programming (![Anisiya Belyaeva - Intro to Programming](https://github.com/a4168048/a4168048/assets/139621912/94204791-02db-4f99-9488-a81b497ee103)
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
