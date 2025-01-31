@@ -1,5 +1,7 @@
 # Hello there 👋
-## Certificates
+I plan to pursue a career in bioengineering
+and am interested in data science.
+ ## Certificates
 1. https://www.kaggle.com/learn/certification/anisiyabelyaeva/intro-to-programming ![Anisiya Belyaeva - Intro to Programming](https://github.com/a4168048/a4168048/assets/139621912/94204791-02db-4f99-9488-a81b497ee103)
 
 2. https://lab.karpov.courses/certificate/05077596-4a12-412f-b4c7-16bb3db362be/en/  ![image](https://github.com/a4168048/a4168048/assets/139621912/e272746e-595d-451e-8ea6-1c038546b30d)
